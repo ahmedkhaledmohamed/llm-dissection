@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.env
+wandb/
+*.pt
+*.bin
+*.safetensors
+.DS_Store
